@@ -51,8 +51,18 @@ Email проверяется через регулярное выражение.
 🛠 Технологии
 HTML5
 
+
+
+
+
 CSS3 (Анимации, Flexbox)
 
 JavaScript (ES6 Modules, DOM API, LocalStorage)
 
 Webpack 5 (Webpack Dev Server, HtmlWebpackPlugin, CSS-loader, Style-loader)
+
+<img width="581" height="277" alt="image" src="https://github.com/user-attachments/assets/111a7e8c-4b64-4963-858e-376ed5e59ce5" />
+
+<img width="1911" height="945" alt="image" src="https://github.com/user-attachments/assets/3ab16166-4d45-433b-bbee-c0a4059be375" />
+
+<img width="421" height="512" alt="image" src="https://github.com/user-attachments/assets/ec279e3d-7bce-4fab-b5c6-d15a10b9fcd5" />
